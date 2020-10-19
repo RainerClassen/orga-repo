@@ -10,6 +10,7 @@ Themen für Präsentation shared library
 Organisation der Arbeit
 - Ordnerstruktur in shared library
 - Ausschussarbeit und Kommunikation
+- Architektur (Visualisierung des Projektes)
 
 shared library
 - maven-service bis verify
@@ -17,6 +18,7 @@ shared library
 - docker-service
 - ansible-service
 - Aufsetzen der Serverlandschaft
+- Tomcat
 
 ------------------------------------------------------------------------------------------------------------------------
 
